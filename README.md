@@ -1,2 +1,2 @@
 # base-go
-Project base using Go
+Base project using Go
