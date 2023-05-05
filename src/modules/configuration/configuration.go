@@ -15,5 +15,5 @@ func init() {
 }
 
 func Get(key string) string {
-	return viper.GetString("port")
+	return viper.GetString(key)
 }
